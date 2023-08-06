@@ -1,6 +1,6 @@
 <div align="center">
 
-# life
+# JS LIFE
 
 Thank you, JavaScript!
 
